@@ -15,7 +15,7 @@
   <a href="mailto:neerajnani211@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/neeraj-bala-357010181/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Grounder211"><img src="https://img.shields.io/github/followers/Grounder211?style=social" /></a>
-  <a href="https://www.hackerrank.com/profile/NeerajBala"><img src="https://img.shields.io/github/followers/Grounder211?style=social" /></a>
+  <a href="https://www.hackerrank.com/profile/NeerajBala"><img src="https://github.com/Grounder211/Grounder211/blob/main/Hackerrank.pdf" /></a>
 </p>
 
 ---
